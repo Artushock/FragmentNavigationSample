@@ -1,0 +1,44 @@
+<resources>
+    <!--  General  -->
+    <string name="app_name">FragmentNavigationSample</string>
+    <string name="app_name_title">Fragment navigation sample</string>
+
+    <!--Image descriptions-->
+    <string name="_idesc_box_image" translatable="false">Box image</string>
+
+    <!--  Menu  -->
+    <string name="menu_activity_button_open_box">Open box</string>
+    <string name="menu_activity_button_options">Options</string>
+    <string name="menu_activity_button_about">About</string>
+    <string name="menu_activity_button_exit">Exit</string>
+
+    <!--  About  -->
+    <string name="about_activity_window_title">About</string>
+    <string name="about_activity_title">Information about the app</string>
+    <string name="about_activity_name">Name</string>
+    <string name="about_activity_version">Version</string>
+    <string name="about_activity_version_code">Version code</string>
+    <string name="about_activity_ok">OK</string>
+
+    <!--  Options activity  -->
+    <string name="options_activity_window_title">Options</string>
+    <string name="options_activity_timer">Timer</string>
+    <string name="options_activity_amount_of_boxes">Amount of boxes</string>
+    <string name="options_activity_cancel">Cancel</string>
+    <string name="options_activity_confirm">Confirm</string>
+
+    <!--  Box selection activity  -->
+    <string name="box_selection_window_title">Box selection</string>
+    <string name="box_selection_activity_select_on_of_the_boxes">Select one of the boxes</string>
+    <string name="box_selection_activity_timer">Timer %1$s sec.</string>
+    <string name="box_selection_activity_item">Box #%1$s</string>
+    <string name="box_selection_activity_the_end">The end</string>
+    <string name="box_selection_activity_timer_end_finish">Opps! There is not enough time, try later</string>
+
+    <!--  Box success activity  -->
+    <string name="_idesc_congratulations_image" translatable="false">Congratulations image</string>
+    <string name="box_success_activity_congratulations">Congratulations</string>
+    <string name="box_success_activity_to_main_menu">To main menu</string>
+
+
+</resources>
